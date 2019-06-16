@@ -30,9 +30,12 @@ work_mode(mode)
 # 计算时间
 
  本人电脑为GTX1060 6G显卡，计算时间大概在10min左右，迭代到1000+次后，损失值徘徊在0.088左右，开始进行测试，见下图
- 
+
+![](D:\自然语言处理实战\聊天机器人\Chatbot-intruduction\result\聊天1.png)
+
+![](D:\自然语言处理实战\聊天机器人\Chatbot-intruduction\result\聊天2.png)
 
 # 致谢
 
-语料下载至  [here](https://github.com/codemayq/chinese_chatbot_corpus)
+语料下载至  [here](https://github.com/codemayq/chinese_chatbot_corpus)，非常感谢作者codemayq的无私奉献，已星标follow。
 
