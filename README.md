@@ -1,41 +1,44 @@
-# 聊天机器人
-提问来自语料库中的句子时，准确度非常高，目前还有很多瑕疵，后续不断完善中，代码将逐步更新创建过程。
-目前存在缺陷：
-1.回答语句有空格，
-2.未对语料库分桶
-3.暂未做FLASKweb处理
-4.后续更新基于Pytorch建立聊天机器人
-5.使用更多类型的语料库进行更新
-6.暂未重构代码，使之可以方便商用。
-# 开发环境
+我们来看权力的游戏杀妻场景：
 
-TensorFlow：1.10.0
-Python：3.5.2
-jieba:0.39
+# 小恶魔
 
-# 使用办法
+直接杀人
 
-运行main.py，详见下文：
+![1558617709521](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558617709521.png)
 
-```python  
-  
-总共有三种模式：
-0 : 训练模式
-1 : BLEU模式
-2 : 测试模式。
-mode = 2
-work_mode(mode)
-```
 
-# 计算时间
 
- 本人电脑为GTX1060 6G显卡，计算时间大概在10min左右，迭代到1000+次后，损失值徘徊在0.088左右，开始进行测试，见下图
+![1558617758147](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558617758147.png)
 
-![](D:\自然语言处理实战\聊天机器人\Chatbot-intruduction\result\聊天1.png)
+![1558617774362](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558617774362.png)
 
-![](D:\自然语言处理实战\聊天机器人\Chatbot-intruduction\result\聊天2.png)
+# 斯坦尼斯
 
-# 致谢
+将亲女儿烧死，间接害死妻子：
+![1558618021434](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558618021434.png)
 
-语料下载至  [here](https://github.com/codemayq/chinese_chatbot_corpus)，非常感谢作者codemayq的无私奉献，已星标follow。
+![1558618035955](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558618035955.png)
 
+# 弗雷
+
+间接杀害
+
+![1558618219316](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558618219316.png)
+
+再看看老婆杀丈夫
+
+莱莎杀艾林
+
+![1558618883030](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558618883030.png)
+
+劳勃先生~~~~
+
+![1558618812832](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558618812832.png)
+
+火吻杵着不动，被红领巾杀害
+
+![1558619177218](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558619177218.png)
+
+小指头把莱莎推下月门
+
+![1558619469393](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1558619469393.png)
